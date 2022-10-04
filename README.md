@@ -1,3 +1,7 @@
+# Teacher Gradebook
+
+A grade tracking web app built in react made for teachers. You can add students, assignments, and grades. Grades will be color coded. Saves in browser cache.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
