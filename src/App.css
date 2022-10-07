@@ -1,6 +1,6 @@
-.gradeGrid{
+.gradeBook{
     display: grid;
-    grid-template-columns: 100px auto auto auto auto auto auto auto auto auto auto;
+    grid-template-columns: 200px auto auto auto auto auto auto auto auto auto auto;
 }
 
 .buttons{
@@ -8,12 +8,12 @@
 }
 
 .editStudents{
-    width:100%;
+    width:70%;
     margin-bottom: 5px;
 }
 
 .editAssignments{
-    width:100%;
+    width:70%;
 }
 
 .assignment{
@@ -24,14 +24,14 @@
     text-align: center;
 }
 
-.score{
+.assignment{
     display:flex;
     align-items: center;
     justify-content: center;
     border:solid black 1px;
 }
 
-.gradeInput{
+.scoreInput{
     width:30px;
     height:20px;
     text-align: right;
