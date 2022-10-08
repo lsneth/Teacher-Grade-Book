@@ -31,7 +31,7 @@
     border:solid black 1px;
 }
 
-.scoreInput{
+.grade{
     width:30px;
     height:20px;
     text-align: right;
@@ -39,4 +39,11 @@
 
 .totalPoints{
     padding-left: 2px;
+}
+
+input[type=number]::-webkit-inner-spin-button,
+input[type=number]::-webkit-outer-spin-button { 
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none; 
 }
