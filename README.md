@@ -8,7 +8,7 @@ I am creating this app to learn how to use React.
 
 # Web Pages
 
-{Describe each of the web pages you created and how the web app transitions between each of them.  Also describe what is dynamically created on each page.}
+This is currently a one page app.
 
 # Development Environment
 
