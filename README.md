@@ -21,6 +21,8 @@ This is a web app written in JavaScript, JSX, and CSS using the React library.
 # Future Work
 
 * Add a spot in the UI to upload/edit students and assignments
+* Edit users/assignment info from UI
 * Add tabs for different classes/gradebooks
 * User authentication
 * Connect to a database instead of using local storage
+* Importing/exporting of gradebook pages
