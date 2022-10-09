@@ -4,7 +4,7 @@ A grade tracking web app made for teachers. Dynamically grabs data from a studen
 
 I am creating this app to learn how to use React.
 
-[Demo Video](http://youtube.link.goes.here)
+[Demo Video](http://youtube.link.goes.here](https://youtu.be/EyEu7NR1tk0)
 
 # Web Pages
 
