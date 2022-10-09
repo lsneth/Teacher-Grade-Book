@@ -1,4 +1,4 @@
-import React, {useEffect} from 'react'
+import React from 'react'
 
 function Assignment(props){
 
@@ -26,7 +26,7 @@ function Assignment(props){
 
     return(
         <div className='assignment' id={props.id}>
-            <input type='number' onChange={colorGrade} className='gradeInput' placeholder='-'></input>
+            <input type='number' onInput={colorGrade} className='gradeInput' placeholder='-'></input>
             <p className='totalPoints'>{'/' + props.totalPoints}</p>
         </div>
     )

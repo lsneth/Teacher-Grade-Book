@@ -37,8 +37,8 @@ function App() {
   }
 
   function loadGrades(){
-    for (let i = 0; i < 6; i++) {
-      for (let j = 0; j < 10; j++) {
+    for (let i = 0; i < studentData.length; i++) {
+      for (let j = 0; j < asgmtData.length; j++) {
         let coordinate=(String(i)+String(j))
         let gradeBox=document.getElementById(coordinate)
         gradeBox.firstChild.value=localStorage.getItem(coordinate)
@@ -52,7 +52,6 @@ function App() {
   return (
     <>
       <Navbar/>
-
       <main>
         <div className='grades' id='grades'>
           {/* render dynamically */}
