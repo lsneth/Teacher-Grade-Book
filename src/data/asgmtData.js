@@ -32,31 +32,31 @@ export default [
     {
         key: 5,
         id: 5,
-        name: "History 01",
+        name: "History 02",
         totalPoints: 43,
     },
     {
         key: 6,
         id: 6,
-        name: "Spelling 01",
+        name: "Spelling 02",
         totalPoints: 10,
     },
     {
         key: 7,
         id: 7,
-        name: "Vocab 01",
+        name: "Vocab 02",
         totalPoints: 13,
     },
     {
         key: 8,
         id: 8,
-        name: "Math 01",
+        name: "Math 02",
         totalPoints: 16,
     },
     {
         key: 9,
         id: 9,
-        name: "Science 01",
+        name: "Science 02",
         totalPoints: 13,
     },
 ]
